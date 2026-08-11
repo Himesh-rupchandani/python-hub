@@ -1,4 +1,4 @@
-""" Write a program that uses a for loop to print all the odd, even numbers in the range input by user. """
+ # Write a program that uses a for loop to print all the odd, even numbers in the range input by user. 
 
 
 x = int(input("Enter a number for total range: "))
@@ -17,6 +17,7 @@ for i in range(0,x):
         print(i,end=" ")
 
 
+#OUTPUT:-
 """
 
 Enter a number for total range: 10
